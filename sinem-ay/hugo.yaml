@@ -2,6 +2,7 @@ baseURL: https://sinem-ay.github.io
 languageCode: en-us
 title: Personal Website
 theme: "PaperMod"
+publishDir: "docs"
 
 params:
     profileMode:
