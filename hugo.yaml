@@ -5,19 +5,20 @@ theme: "PaperMod"
 publishDir: "docs"
 
 params:
-    profileMode:
-        enabled: true
-        title: "Sinem Ayyaldaz" 
-        subtitle: "Jr DevOps Engineer | Python Backend Developer"
-        imageUrl: "https://media.licdn.com/dms/image/C4D03AQGnGDu2u0jP4w/profile-displayphoto-shrink_200_200/0/1644867087884?e=1706745600&v=beta&t=L7T6qtETxNHdz6ArWtm7jkSThTxYnh8S7tyclt0t_wE" 
-        imageTitle: "Profile mode image" 
-        imageWidth: 120 
-        imageHeight: 120 
+  profileMode:
+    enabled: true
+    title: "Sinem Ayyaldaz"
+    subtitle: "Jr SRE DevOps Engineer | Python Backend Developer"
+    additionalText: "I love coding 💻 and learning new technologies 🤖"
+    imageUrl: "https://media.licdn.com/dms/image/v2/C4D03AQGnGDu2u0jP4w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1644867087884?e=2147483647&v=beta&t=r9TVvEYjZhTF5I_4qcunKU-glpM-LCue7sCGrJ7Ufu0"
+    imageTitle: "Profile mode image"
+    imageWidth: 120
+    imageHeight: 120
 
-    socialIcons: 
-        - name: github
-          url: "https://github.com/sinem-ay"
-        - name: linkedin
-          url: "https://www.linkedin.com/in/sinem-ayyildiz-2922031b2/"
-        - name: twitter
-          url: "https://twitter.com/sin3ay"
+  socialIcons:
+    - name: github
+      url: "https://github.com/sinem-ay"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/sinem-ayyildiz-2922031b2/"
+    - name: twitter
+      url: "https://twitter.com/sin3ay"
